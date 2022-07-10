@@ -1,13 +1,8 @@
-### Hi there 👋
+### Hi 
 
 
-Here are some ideas to get you started:
+- interested in Whole body motion (Bipedal robot), Reinforcement learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Whole body motion, Reinforcement learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... chlgns202@korea.ac.kr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Love dancing
+- chlgns202@korea.ac.kr
+
+- Fun fact: Love dancing..
