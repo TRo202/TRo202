@@ -7,7 +7,7 @@
 :books: Skills: 
 - Programming <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 - Library <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
-- Robotics <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ROS&logoColor=white"> 
+- Robotics <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"> (ROS 1 Melodic, ROS 2 Foxy)
 - Simulation 
     <code>
     	<img height="17" 
