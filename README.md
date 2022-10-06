@@ -37,8 +37,8 @@
 
 :bulb: Fields of interest:
 - Legged Locomotion Control
-- Reinforcement Learning
-- Deep Learning
+- Deep Reinforcement Learning
+
 
 
 
