@@ -1,5 +1,5 @@
 :raising_hand: Personal:
-<a href="mailto:chlgns202@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:chlgns202@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://rightful-jodhpur-42d.notion.site/TRo202-c14628292c50479e985e9e604f387496" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
